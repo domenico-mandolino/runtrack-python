@@ -5,4 +5,4 @@ while True:
         for x in range(1, 11):
          resultat = n*x
          print( n,"*",x,"=",resultat)
-
+    break
