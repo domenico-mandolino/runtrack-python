@@ -5,8 +5,10 @@ def languages (language):
         print("tu es un développeur IA")
     elif language == "java":
         print("tu es un développeur logiciel")
+    elif language == "reactjs":
+        print("tu es un developpeur mobile")
     else:
-        print("language non recounu")
+        print("un jour, je serai le meilleur développeur... ")
 
 
-languages("java")
+languages("reactjs")
